@@ -1,5 +1,4 @@
-<img width="1392" height="830" alt="image" src="https://github.com/user-attachments/assets/c4527999-fc7e-4309-82be-8ce02c87b803" /># Ghost Survival 👻
-
+# Ghost Survival 👻
 A thrilling survival game where you play as a ghost navigating through a city, following day-night rules while avoiding patrolling police officers.
 
 ## Game Description
