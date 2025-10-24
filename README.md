@@ -1,12 +1,13 @@
-# Ghost Survival 👻
+<img width="1392" height="830" alt="image" src="https://github.com/user-attachments/assets/c4527999-fc7e-4309-82be-8ce02c87b803" /># Ghost Survival 👻
 
 A thrilling survival game where you play as a ghost navigating through a city, following day-night rules while avoiding patrolling police officers.
 
 ## Game Description
 
 In **Ghost Survival**, you are a ghost wandering through the city streets, trying to survive as long as possible by following the day-night cycle rules. Be careful - you can only move freely during the night, but must remain completely still during the day to avoid detection!
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d14e2301-b5cf-40ac-bd24-6946810fbea7" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1c49c394-bc34-448b-bfaa-b26c33ef2bfd" />
+<img width="1459" height="788" alt="image" src="https://github.com/user-attachments/assets/aabe8a5f-6c40-4bcd-a05f-0e3c97cb5451" />
+<img width="1003" height="552" alt="image" src="https://github.com/user-attachments/assets/9b083be0-b5d3-4954-804f-6dd42b19d70c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/83f1cfe4-fbdb-41d7-9a83-4c01f1235567" />
 
 ## Game Features
 
