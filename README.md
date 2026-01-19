@@ -1,6 +1,9 @@
 # Ghost Survival 👻
 A thrilling survival game where you play as a ghost navigating through a city, following day-night rules while avoiding patrolling police officers.
 
+https://github.com/user-attachments/assets/f7a8fcee-bf00-42fa-ac76-83eb14b96ac3
+
+
 ## Game Description
 
 In **Ghost Survival**, you are a ghost wandering through the city streets, trying to survive as long as possible by following the day-night cycle rules. Be careful - you can only move freely during the night, but must remain completely still during the day to avoid detection!
